@@ -13,4 +13,6 @@ Numer albumu: 72534
 Grupa studencka: WEL18DE1S1
 
 # Pytania do zadań z instrukcji
+W jaki sposób można określić czas trwania opóźnieniazrealizowanego z użyciem pętli?
+odp: przy użyciu pętli while do najpierw wykonywane są instrukcje wewnątrz pętli, a dopero póżniej sprawdzany jest jej warunek. Wykonuje się ona tak długo, aż zostanie osiągnięty warunek. Jest to zastąpienie funkcji delay().
 
